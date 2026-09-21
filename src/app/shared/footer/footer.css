@@ -48,3 +48,7 @@ footer section {
     color: #ffffff;
     text-decoration: underline;
 }
+
+.footer-admin {
+    text-align:right
+}
