@@ -1,7 +1,7 @@
 .navbar {
     padding: 16px 32px;
-    background-color: #ffffff;
-    color: #2191fb;
+    background-color: #171717;
+    color: #D4af37;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -29,7 +29,7 @@
 
 .navbar-logo,
 .navbar a {
-    color: #2191fb;
+    color: #D4af37;
     font-size: 15px;
     font-weight: 600;
     letter-spacing:-0.2px;
@@ -45,6 +45,6 @@
 }
 
 .navbar a:hover {
-    color: #2191fb;
+    color: #ffffff;
     text-decoration: underline;
 }
