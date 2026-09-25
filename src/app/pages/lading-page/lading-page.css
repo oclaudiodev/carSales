@@ -10,11 +10,13 @@ p{
 }
 
 button{
+    font-size: 20px;
     color: #ffffff;
     background-color: #D4AF37;
     width: 248px;
     height: 29px;
     border-radius: 15px;
+    margin:15px 0px;
 }
 
 button:hover{
@@ -24,7 +26,7 @@ button:hover{
 #caixaRegistro{
     width: 312px;
     height: 290px;
-    margin: 50px 250px;
+    margin: 250px 400px;
 }
 
 h1{
@@ -33,4 +35,12 @@ h1{
     width: 800px;
     height: 168px;
     margin: 0 auto;
+    text-align: center;
+}
+
+h2{
+    color: #ffffff; 
+    font-size: 60px;
+    text-align: center;
+    margin: 200px 100px;
 }
