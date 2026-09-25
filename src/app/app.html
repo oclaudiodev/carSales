@@ -1,4 +1,7 @@
 <app-menu></app-menu>
-<p class="usuario-logado">Usuário logado: {{ nome }}</p>
-<h1>Bem-vindo ao <span>{{titulo}}</span></h1>
+
+<main class="conteudo">
+    <p class="usuario-logado">Usuário logado: {{ nome }}</p>
+    <router-outlet></router-outlet>
+</main>
 <app-footer></app-footer>
