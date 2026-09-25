@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+p{
+    color: #ffffff;
+    font-size: 48px;
+}
+
+button{
+    color: #ffffff;
+    background-color: #D4AF37;
+    width: 248px;
+    height: 29px;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: #F1D77A;
+}
+
+#caixaRegistro{
+    width: 312px;
+    height: 290px;
+    margin: 50px 250px;
+}
+
+h1{
+    color: #ffffff; 
+    font-size: 70px;
+    width: 800px;
+    height: 168px;
+    margin: 0 auto;
+}
