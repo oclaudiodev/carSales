@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+}
+
+#container {
+    margin: 90px auto;
+    width: calc(100% - 40px);
+    max-width: 1200px;
+    border: 2px solid #d4af37;
+    box-shadow: inset 0 0 10px #d4af37;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.titulo-carrinho h2 {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+th {
+    background-color: #d4af37;
+    padding: 15px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-carro {
+    width: 150px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.excluir {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.cupom{
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.comprar{
+    display: flex;
+    justify-content:right;
+    button
+    {
+        color: white;
+        background-color: #d4af37;
+        font-size: large;
+    }
+}
